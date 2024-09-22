@@ -27,8 +27,8 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/textbook-comparison-bot.git
-    cd textbook-comparison-bot
+    git clone https://github.com/Ramithn227/pdf_comparison_bot.git
+    cd pdf_comparison_bot
     ```
 
 2. Install the required dependencies:
@@ -64,12 +64,6 @@ To run the project locally, follow these steps:
 - google-generativeai
 - pandas
 - dotenv
-
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 
 ## 📧 Contact
 
